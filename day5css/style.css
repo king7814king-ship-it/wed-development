@@ -1,0 +1,19 @@
+div{
+    background-color: blue;
+    text-align: center;
+    font-size: large;
+    color: brown;
+    width: 250px;
+
+
+}
+
+div p{
+    color: deeppink;
+
+}
+
+h1{
+    font-family: cursive;
+    color: red;
+}
